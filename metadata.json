@@ -1,0 +1,7 @@
+{
+  "name": "StockMaster Pro - AI Inventory Management",
+  "description": "A comprehensive AI-powered inventory management system with stock tracking, sales reporting, supplier management, and intelligent insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
